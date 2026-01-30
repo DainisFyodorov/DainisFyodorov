@@ -4,7 +4,7 @@
 🎓 Computer Science student
 
 ## Tech Stack
-Java • Spring Boot • REST APIs • JPA • SQL • Auth0
+Java • Spring Boot • REST APIs • JPA• JUnit • Mockito • SQL  • Auth0
 
 ## Featured Projects
 - Library App (Spring Boot REST API)
