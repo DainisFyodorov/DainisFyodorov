@@ -8,6 +8,7 @@ Java • Spring Boot • REST APIs • JPA • JUnit • Mockito • SQL  • Au
 
 ## Featured Projects
 - Library App (Spring Boot REST API)
+- ToDoList App (Spring Boot REST API)
 - Job Portal (Full-stack Java web app)
 
 📫 LinkedIn: https://linkedin.com/in/dainis-fjodorovs/
